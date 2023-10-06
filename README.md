@@ -1,5 +1,4 @@
 # lab_two
-data types
 For Lab 2, you will write a program that accepts numeric and string inputs from a user, assigns them to variables, performs some calculations with them, and then prints out the output.
 
 As long as your program satisfies the requirements listed below, you are free to design and write any program that you want to. You are encouraged to be creative and pick something that has meaning for you because you'll have more fun. You are welcome to start with one of the programming exercises from Chapters 2, 9, 10, or 11 from the textbook. Your program may not be an exact copy of any exercise or example. 
